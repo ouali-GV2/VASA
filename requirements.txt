@@ -1,0 +1,26 @@
+yfinance
+beautifulsoup4
+requests
+xgboost
+ta-lib
+pandas
+numpy
+xai-sdk  # Grok
+transformers  # HuggingFace sentiment
+telebot  # Telegram
+backtrader  # Backtest
+streamlit  # Simple web interface (buttons + visual)
+feedparser  # For RSS parse
+torch  # Backend for HuggingFace models
+openai  # For Grok API compatible
+scikit-learn  # For XGBoost sklearn
+
+
+
+
+
+
+
+
+
+
